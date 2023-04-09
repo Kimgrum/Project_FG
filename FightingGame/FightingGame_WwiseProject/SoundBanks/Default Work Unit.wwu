@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{644BF4CB-EB0A-4BCC-BB26-1048625D2797}" SchemaVersion="110">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{644BF4CB-EB0A-4BCC-BB26-1048625D2797}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{99EDC58F-6893-456F-881F-908623CF13D5}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Knight_SmashSkill" ID="{EBB8EE99-96E6-4848-AF81-83B351F0BA4B}" WorkUnitID="{077AEE64-9285-4109-BF96-B90E0AAC1CA2}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c085e9d09ab8e384997589a8139d234e, type: 3}
+  m_Name: EBB8EE99-96E6-4848-AF81-83B351F0BA4B
+  m_EditorClassIdentifier: 
+  objectName: Knight_SmashSkill
+  id: 458472754
+  guid: EBB8EE99-96E6-4848-AF81-83B351F0BA4B

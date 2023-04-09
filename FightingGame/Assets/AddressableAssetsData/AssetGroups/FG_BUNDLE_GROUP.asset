@@ -7302,7 +7302,7 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
   - m_GUID: 885abba59c5602c45a7e5266830dd2f7
-    m_Address: Assets/Bundle/Sprites/Charater/Wizard/Effect/Wizard_DashEffect.controller
+    m_Address: Assets/Bundle/Animators/Charater/Wizard/Wizard_DashEffect.controller
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
@@ -7312,7 +7312,7 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
   - m_GUID: 9ee61d939d7628d4fa46a0b36b6c7b89
-    m_Address: Assets/Bundle/Sprites/Charater/Wizard/Motion/Wizard_Dash.anim
+    m_Address: Assets/Bundle/Animations/Wizard/Motion/Wizard_Dash.anim
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
@@ -7342,7 +7342,7 @@ MonoBehaviour:
     m_SerializedLabels:
     - Animation
   - m_GUID: 418517069332e884696babaa31a50ef0
-    m_Address: Assets/Bundle/Sprites/Charater/Attacked/Basic_SkillAttackedEffect1.controller
+    m_Address: Assets/Bundle/Animators/Charater/Basic_SkillAttackedEffect1.controller
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
@@ -7352,7 +7352,7 @@ MonoBehaviour:
     m_SerializedLabels:
     - Animation
   - m_GUID: 2afc2081a51a03f4384cb31a7c5d9cf0
-    m_Address: Assets/Bundle/Sprites/Charater/Attacked/Basic_SkillAttackedEffect2.controller
+    m_Address: Assets/Bundle/Animators/Charater/Basic_SkillAttackedEffect2.controller
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
@@ -7366,6 +7366,121 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Prefab
+  - m_GUID: 5a8fe608cf78ff349aa1c741fdd0d75d
+    m_Address: Assets/Wwise/API/Editor/WwiseWindows/TreeViewIcons/blank.png
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 132e1bf298fe2234a948875397e7fe09
+    m_Address: Assets/Wwise/API/Editor/WwiseWindows/TreeViewIcons/folder_nor.png
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: a911a1e933919ec4a8a9ddb72b1e995a
+    m_Address: Assets/Wwise/API/Editor/WwiseWindows/TreeViewIcons/soundbank_nor.png
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: a96d22dbf338f4146a8d1289fb23bb8e
+    m_Address: Assets/Wwise/API/Editor/WwiseWindows/TreeViewIcons/auxbus_nor.png
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 8646057176905664d8bcbde7f044eeb4
+    m_Address: Assets/Wwise/API/Editor/WwiseWindows/TreeViewIcons/switchgroup_nor.png
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: a4e284c426a0f6249bd3985b20e34e1e
+    m_Address: Assets/Wwise/API/Editor/WwiseWindows/TreeViewIcons/workunit_nor.png
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: b3ef4a254a7b8194997d2d155f4fa1c3
+    m_Address: Assets/Wwise/API/Editor/WwiseWindows/TreeViewIcons/acoustictexture_nor.png
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 6ba17b37c8846fe42933b46cce1cfc1a
+    m_Address: Assets/Wwise/API/Editor/WwiseWindows/TreeViewIcons/stategroup_nor.png
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 4c30894d236523e45b05da163acdaae0
+    m_Address: Assets/WwiseSettings.xml
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Data
+  - m_GUID: aee4ff24981a4a544956d30c666e6c81
+    m_Address: Assets/Wwise/Gizmos/wwise_white_on_gray.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: df5433925f0c671438ac497966a1cc74
+    m_Address: Assets/Wwise/API/Editor/WwiseWindows/TreeViewIcons/state_nor.png
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: d3947b6bf7e72ce4791a7b5be67ca8a9
+    m_Address: Assets/Wwise/API/Editor/WwiseWindows/TreeViewIcons/physical_folder_nor.png
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 5f99129dc5ab132449450e96c5a6e0b7
+    m_Address: Assets/Wwise/API/Editor/WwiseWindows/TreeViewIcons/gameparameter_nor.png
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 5973a6c789a7d2948b1d21d0060acea8
+    m_Address: Assets/Wwise/API/Editor/WwiseWindows/TreeViewIcons/bus_nor.png
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: bcda86a4f0cda594ab4d43fb5cd6a453
+    m_Address: Assets/Wwise/API/package.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Data
+  - m_GUID: 5eccf2a9b5204c640be583ecc102c907
+    m_Address: Assets/Wwise/API/Editor/WwiseWindows/TreeViewIcons/switch_nor.png
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 46584f39d29be3e4798bdd032dd970eb
+    m_Address: Assets/Wwise/API/Editor/WwiseWindows/TreeViewIcons/event_nor.png
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: a04f1f1f29ebb1d4095c4d9a9b859f99
+    m_Address: Assets/Wwise/MonoBehaviour/package.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Data
+  - m_GUID: 207f024d00366914fa782e69da85e86b
+    m_Address: Assets/Wwise/API/Editor/WwiseWindows/TreeViewIcons/wproj.png
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 1a173088fef83334ab66cfdb7688c3a1
+    m_Address: Assets/Wwise/Timeline/package.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Data
+  - m_GUID: 6c4b9694ef416604ab4604c736d7bb85
+    m_Address: Assets/Wwise/Gizmos/WwiseAudioSpeaker.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: ff1c8ada3f9adc74689fca9963c954bd
+    m_Address: Assets/Wwise/LauncherInfo.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Data
+  - m_GUID: fc60d314d17ebeb49a5facc624ffddfd
+    m_Address: Assets/StreamingAssets/Audio/GeneratedSoundBanks/ProjectInfo.xml
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Data
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: cca5b293fafc30d40ba912a9595de9a2, type: 2}
   m_SchemaSet:

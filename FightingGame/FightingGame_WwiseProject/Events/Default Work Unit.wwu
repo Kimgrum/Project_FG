@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{077AEE64-9285-4109-BF96-B90E0AAC1CA2}" SchemaVersion="110">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{077AEE64-9285-4109-BF96-B90E0AAC1CA2}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Knight_SmashSkill" ID="{EBB8EE99-96E6-4848-AF81-83B351F0BA4B}">
+					<ChildrenList>
+						<Action Name="" ID="{C5911440-A6E1-44F0-88AB-12D32CE72F51}" ShortID="871457937">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Knight_SmashSkill" ID="{B985E75A-DD25-412E-96CC-CD9D44166C2E}" WorkUnitID="{6D99818E-BA22-405B-9804-5585B60548BA}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

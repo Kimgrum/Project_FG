@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{6D99818E-BA22-405B-9804-5585B60548BA}" SchemaVersion="110">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{6D99818E-BA22-405B-9804-5585B60548BA}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Knight_SmashSkill" ID="{B985E75A-DD25-412E-96CC-CD9D44166C2E}" ShortID="452574156">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{61FB988E-029D-49C0-862B-4DA2C2B5EBD2}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3085DF3B-0338-4547-996D-83272E47C82D}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Knight_SmashSkill" ID="{BA3AE6BE-023B-4B37-9A28-2BD95E3A289F}">
+							<Language>SFX</Language>
+							<AudioFile>Knight_SmashSkill.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="35467730"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Knight_SmashSkill" ID="{BA3AE6BE-023B-4B37-9A28-2BD95E3A289F}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
